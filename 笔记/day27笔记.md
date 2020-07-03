@@ -12,3 +12,13 @@ leetcode 237删除链表中的节点题目
 
 即删除了节点的下个节点
 
+
+
+
+
+---------------
+
+![img](https://upload-images.jianshu.io/upload_images/12988265-ea0ab90b186417b0.png?imageMogr2/auto-orient/strip|imageView2/2/w/344)
+
+**"?"加在变量名后，系统在任何情况不会报它的空指针异常。**
+ **"!!"加在变量名后，如果对象为null，那么系统一定会报异常！**
